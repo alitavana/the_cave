@@ -5,12 +5,14 @@ A fun game
 1.Blue
 2.
 3.
-4
+4.
+
 ## Maria
 1.White
 2.Yellow
 3.
 4.
+
 ## Leah
 1.Turquoise
 2.
