@@ -2,5 +2,17 @@
 A fun game
 
 ## John
-## Maya
-## Liah
+1.
+2.
+3.
+4
+## Maria
+1.
+2.
+3.
+4.
+## Leah
+1.
+2.
+3.
+4.
